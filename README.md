@@ -32,6 +32,27 @@ Deploy as a simple web app (Streamlit/Flask) for interactive predictions.
 - **luxury_index** (luxury factor score)  
 
 **Target:** `price_k` (car price in thousands)
+📊 Output
+
+When you run the script, you’ll see:
+
+Ridge Regression Results:
+
+Optimal alpha (λ) chosen by cross-validation
+
+Intercept and feature coefficients
+
+Test R² score
+
+OLS Regression Results:
+
+Coefficients (no regularization)
+
+Test R² score
+
+Bar Plot:
+
+Visual comparison of Ridge vs OLS coefficients
 
 ---
 Manoj K
