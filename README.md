@@ -3,6 +3,10 @@
 This project predicts **car prices** based on features like mileage, engine size, horsepower, weight, and luxury index.  
 The focus is on comparing **Ridge Regression** (with cross-validation for alpha tuning) vs **Ordinary Least Squares (OLS)** to handle **multicollinearity** among predictors.
 
+
+App Link : https://carpriceprediction-jzxwzzzekwgyee9uhwexap.streamlit.app/
+
+
 ---
 
 ## 📌 Features Used
